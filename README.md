@@ -1,6 +1,6 @@
 # Python playing the Chaos-Game
 
-This python script simulates the so called (https://en.wikipedia.org/wiki/Chaos_game)[Chaos game].
+This python script simulates the so called Chaos game.
 
 ## Prerequisites
 
@@ -22,4 +22,10 @@ cd ChaosGame
 To start the script, run the following command:
 ````
 ./dev-tools/run.sh
-````   
+````  
+
+To get some help, run: 
+````
+./dev-tools/run.sh --help
+````  
+
